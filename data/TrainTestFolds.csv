@@ -1,0 +1,90 @@
+Pathogen,Fold,Holdout
+bpertussis,fold1,0
+bpertussis,fold2,0
+bpertussis,fold3,0
+bpertussis,fold4,0
+bpertussis,fold5,1
+corynebacterium,fold1,1
+corynebacterium,fold5,0
+ecoli,fold1,0
+ecoli,fold2,0
+ecoli,fold3,0
+ecoli,fold4,0
+ecoli,fold5,1
+enterobacteriaceae,fold1,0
+enterobacteriaceae,fold2,0
+enterobacteriaceae,fold3,0
+enterobacteriaceae,fold4,0
+enterobacteriaceae,fold5,1
+lentivirus,fold1,0
+lentivirus,fold2,0
+lentivirus,fold3,0
+lentivirus,fold4,1
+lentivirus,fold5,0
+mtuberculosis,fold1,0
+mtuberculosis,fold2,1
+mtuberculosis,fold3,0
+mtuberculosis,fold4,0
+mtuberculosis,fold5,0
+orthopox,fold1,0
+orthopox,fold5,1
+paeruginosa,fold1,0
+paeruginosa,fold2,1
+paeruginosa,fold3,0
+paeruginosa,fold4,0
+paeruginosa,fold5,0
+pfalciparum,fold1,0
+pfalciparum,fold2,0
+pfalciparum,fold3,0
+pfalciparum,fold4,0
+pfalciparum,fold5,1
+smansoni,fold1,0
+smansoni,fold2,1
+smansoni,fold3,0
+smansoni,fold4,0
+smansoni,fold5,0
+tgondii,fold1,0
+tgondii,fold2,1
+tgondii,fold3,0
+tgondii,fold4,0
+tgondii,fold5,0
+Ctrachomatis,fold1,0
+Ctrachomatis,fold2,1
+Ctrachomatis,fold3,0
+Ctrachomatis,fold4,0
+Ctrachomatis,fold5,0
+Human Gammaherpesvirus 4,fold1,0
+Human Gammaherpesvirus 4,fold2,0
+Human Gammaherpesvirus 4,fold3,1
+Human Gammaherpesvirus 4,fold4,0
+Human Gammaherpesvirus 4,fold5,0
+Influenza A,fold1,0
+Influenza A,fold2,0
+Influenza A,fold3,0
+Influenza A,fold4,0
+Influenza A,fold5,1
+Cdifficile,fold1,0
+Cdifficile,fold2,0
+Cdifficile,fold3,0
+Cdifficile,fold4,1
+Cdifficile,fold5,0
+Filoviridae,fold1,0
+Filoviridae,fold2,0
+Filoviridae,fold3,0
+Filoviridae,fold4,0
+Filoviridae,fold5,1
+Measles morbilivirus,fold1,0
+Measles morbilivirus,fold2,1
+Measles morbilivirus,fold3,0
+Measles morbilivirus,fold4,0
+Measles morbilivirus,fold5,0
+Ovolvulus,fold1,1
+Ovolvulus,fold2,0
+Ovolvulus,fold3,0
+Ovolvulus,fold4,0
+Ovolvulus,fold5,0
+Mononegavirales,fold1,1
+Mononegavirales,fold2,0
+Mononegavirales,fold3,0
+Mononegavirales,fold4,0
+Mononegavirales,fold5,0

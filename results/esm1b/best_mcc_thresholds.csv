@@ -1,0 +1,58 @@
+Dataset,Method,Threshold
+bpertussis,epitopetransfer,0.195
+corynebacterium,epitopetransfer,0.5
+orthopox,epitopetransfer,0.5
+ecoli,epitopetransfer,0.42
+enterobacteriaceae,epitopetransfer,0.435
+lentivirus,epitopetransfer,0.664
+mtuberculosis,epitopetransfer,0.394
+paeruginosa,epitopetransfer,0.271
+smansoni,epitopetransfer,0.182
+tgondii,epitopetransfer,0.353
+pfalciparum,epitopetransfer,0.547
+bpertussis,esm-1b,0.356
+corynebacterium,esm-1b,0.5
+orthopox,esm-1b,0.5
+ecoli,esm-1b,0.384
+enterobacteriaceae,esm-1b,0.095
+lentivirus,esm-1b,0.667
+mtuberculosis,esm-1b,0.288
+paeruginosa,esm-1b,0.667
+smansoni,esm-1b,0.282
+tgondii,esm-1b,0.25
+pfalciparum,esm-1b,0.517
+bpertussis,nptransfer,0.166
+corynebacterium,nptransfer,0.5
+orthopox,nptransfer,0.5
+ecoli,nptransfer,0.442
+enterobacteriaceae,nptransfer,0.331
+lentivirus,nptransfer,0.433
+mtuberculosis,nptransfer,0.401
+paeruginosa,nptransfer,0.256
+smansoni,nptransfer,0.309
+tgondii,nptransfer,0.502
+pfalciparum,nptransfer,0.592
+Ctrachomatis,epitopetransfer,0.555
+Ctrachomatis,esm-1b,0.609
+Ctrachomatis,nptransfer,0.516
+Human Gammaherpesvirus 4,epitopetransfer,0.358
+Human Gammaherpesvirus 4,esm-1b,0.409
+Human Gammaherpesvirus 4,nptransfer,0.353
+Influenza A,epitopetransfer,0.53
+Influenza A,esm-1b,0.413
+Influenza A,nptransfer,0.547
+Cdifficile,epitopetransfer,0.217
+Cdifficile,esm-1b,0.155
+Cdifficile,nptransfer,0.099
+Filoviridae,epitopetransfer,0.313
+Filoviridae,esm-1b,0.34
+Filoviridae,nptransfer,0.358
+Measles morbilivirus,epitopetransfer,0.5
+Measles morbilivirus,esm-1b,0.5
+Measles morbilivirus,nptransfer,0.5
+Ovolvulus,epitopetransfer,0.194
+Ovolvulus,esm-1b,0.259
+Ovolvulus,nptransfer,0.147
+Mononegavirales,epitopetransfer,0.278
+Mononegavirales,esm-1b,0.214
+Mononegavirales,nptransfer,0.191

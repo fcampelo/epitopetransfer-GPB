@@ -1,0 +1,16 @@
+{
+    "dialog-state": {
+        "query": "scientific",
+        "path": "C:/Users/me24832/Dropbox/000_Work/01_Papers/(submitted) EpitopeTransfer/v3",
+        "regex": false,
+        "caseSensitive": false,
+        "wholeWord": false,
+        "filePatterns": [],
+        "useGitGrep": false,
+        "excludeGitIgnore": true,
+        "excludeFilePatterns": [],
+        "resultsCount": 34,
+        "errorCount": 0,
+        "replaceErrors": ""
+    }
+}

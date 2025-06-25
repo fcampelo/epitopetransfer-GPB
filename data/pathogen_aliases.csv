@@ -1,0 +1,23 @@
+original,replacement
+bpertussis,B. pertussis
+cdifficile,C. difficile
+Cdifficile,C. difficile
+corynebacterium,Corynebacterium
+ctrachomatis,C. trachomatis
+Ctrachomatis,C. trachomatis
+ecoli,E. coli
+enterobacteriaceae,Enterobacteriaceae
+filoviridae,Filoviridae
+human_gammaherpesvirus_4,Human Gammaherpesvirus 4
+influenza_a,Influenza A
+lentivirus,Lentivirus
+measles_morbilivirus,Measles morbilivirus
+mononegavirales,Mononegavirales
+mtuberculosis,M. tuberculosis
+orthopox,Orthopoxvirus
+ovolvulus,O. volvulus
+Ovolvulus,O. volvulus
+paeruginosa,P. aeruginosa
+pfalciparum,P. falciparum
+smansoni,S. mansoni
+tgondii,T. gondii

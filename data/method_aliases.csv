@@ -1,0 +1,11 @@
+original,replacement,order
+epitopetransfer_esm1b,EpitopeTransfer(ESM-1b),1
+baseline_esm1b,Baseline(ESM-1b),2
+nptransfer_esm1b,NPTransfer(ESM-1b),3
+epitopetransfer_esm2,EpitopeTransfer(ESM2),4
+baseline_esm2,Baseline(ESM2),5
+nptransfer_esm2,NPTransfer(ESM2),6
+bepipred3,Bepipred 3.0,7
+epidope,Epidope,8
+epitopevec,EpitopeVec,9
+epitope1d,Epitope1D,10
