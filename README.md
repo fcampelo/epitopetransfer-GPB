@@ -1,4 +1,6 @@
 # EpitopeTransfer
+[![DOI](https://zenodo.org/badge/1008496372.svg)](https://doi.org/10.5281/zenodo.15743750)
+
 
 This repository contains data and code for the paper **EpitopeTransfer:
 Improving linear B-cell epitope prediction through phylogeny-aware
