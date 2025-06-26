@@ -5,6 +5,8 @@ Improving linear B-cell epitope prediction through phylogeny-aware
 transfer learning** by Lindeberg Pessoa Leite, Teófilo E. de Campos,
 Francisco Pereira Lobo and Felipe Campelo.
 
+**Note**: This repository is a version of the original code in <https://github.com/lindeberg25/epitopetransfer>, with additional reproducibility code for the analysis presented in the paper. For the latest versions, please refer to the original repo or to the fork in <https://github.com/fcampelo/epitopetransfer>.
+
 ## Table of Contents
 
 -   [Dependencies](#Dependencies)
